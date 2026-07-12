@@ -1,24 +1,24 @@
-## Hi 👋, I'm Su4o (4 stands for d in the alphabet) ##
+## Hi 👋, I'm Su6o (6 stands for f in the alphabet) ##
 
 ### "It May Be [3AM], But I'm Muy Bien." - Pengiunify ##
 
-i dont know why the text is blue sometimes.
+
 
                    -`                   
                   .o+`                  --------------- 
-                 `ooo/                  Always wanted to download arch linux... never had.
-                `+oooo:                 OS: ChromeOS
-               `+oooooo:                Kernel:  N/A
+                 `ooo/                  made my dream of installing linux come true
+                `+oooo:                 OS: CachyOS Linux
+               `+oooooo:                Kernel: 7.1.3-xanmod1-1-edge-x64v3
                -+oooooo+:               Grabbiter: Nope
              `/:-:++oooo+:              Uptime: downtime :<
-            `/++++/+++++++:             Shell: Crosh
-           `/++++++++++++++:            Resolution: 1366 x 768
-          `/+++ooooooooooooo/`          CPU: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz (2 threads, 2.80GHz),
-         ./ooosssso++osssssso+`         GPU: N/A :waitwhat:
-        .oossssso-````/ossssss+`        Memory: 1751.04 MiB / 7823.36 MiB
+            `/++++/+++++++:             Shell: Kitty
+           `/++++++++++++++:            Resolution: 1920 x 1080
+          `/+++ooooooooooooo/`          CPU: 2x Intel(R) Xeon(R) CPU E5-2623 v4 @ 2.60GHz (8 threads, 3.20GHz),
+         ./ooosssso++osssssso+`         GPU: GTX 1060 (6GB)
+        .oossssso-````/ossssss+`        Memory: 8.93 GiB / 31.30 GiB
        -osssssso.      :ssssssso.       ChromeOSTheme: Old
       :osssssss/        osssso+++.      Icons: Normal
-     /ossssssss/        +ssssooo/-      $ neofetch
+     /ossssssss/        +ssssooo/-      $ fakeneofetch
 
 
 
@@ -27,33 +27,31 @@ i dont know why the text is blue sometimes.
 
 
 {
-  "name": "Su4o",
+  "name": "Su6o",
 
-  "age": 13,
+  "age": 15,
 
   "intrests": ["programming", "gaming", "jailbreaking", "idk"],
 
-  "Devices?": ["IPad 6gen | IOS 16.1", "Brother's IPad Air 2 | IOS 14.8"]
+  "Devices?": ["IPad 6gen | IOS 16.1/15.4", "Brother's IPad Air 2 | IOS 14.8", "Poco X6 Pro 5G | AxionAOSP Android 16 (Main)", "Pixel 2XL | Android 11 (Secondary)"]
 
-  "jailbreak?": ["Def1nit3lyN0tAJa1lbr3akTool 💀", "Palera1n", "Taurine", "Dopamine 2"],
+  "jailbreak?": ["Def1nit3lyN0tAJa1lbr3akTool", "Palera1n", "Taurine", "Dopamine 2"],
 
   "rootjb?": "nah we go rootless",
 
-  "operatingSystem": "ChromeOs, Windows, IPadOS, ZorinOS",
+  "operatingSystem": "ChromeOS, Windows 10, IPadOS, AxiomAOSP, CachyOS",
 
-  "browser": "Chrome & OperaGX",
+  "browser": "Vivaldi",
 
-  "programmingLanguages": ["HTML", "CSS", "JS?"],
+  "programmingLanguages": ["HTML", "CSS", "Python?"],
 
-  "LearingProgramLaunguages": ["JS"],
+  "LearningProgramLanguages": ["N/A"],
 
-  "editor": "Codesandbox",
-
-  "SchoolGrade": ["A++ (Very Unoffical)"],
+  "editor": "VS Code",
 
   "learning": "nothin+",
 
-  "Games": ["Tetris", "Roblox", "Trackmania", "BBR", "PG3D"],
+  "Games": ["Roblox", "Minecraft", "Trackmania", "The Finals"],
 
   "hasBrainDamage": true
 
@@ -62,10 +60,9 @@ i dont know why the text is blue sometimes.
 "Inspriration?":
 
   "Pengiunify",
-    "BlazerHM",
-      "Titanium Network",
-        "coolelectronics",
-         "3kh0",
+    "coolelectronics",
+      "Crin",
+        "3kh0",
 
 
           Thank You...
@@ -75,9 +72,6 @@ i dont know why the text is blue sometimes.
 
 
 [![Hello👋,](https://hits.sh/github.com/Su4o/hits.svg)](https://hits.sh/github.com/Su4o/hits/flat-square)
-
-![Sudo's status](https://github-readme-stats.vercel.app/api?username=Su4o&show_icons=true&theme=vue-dark)
-
                           
 
  
