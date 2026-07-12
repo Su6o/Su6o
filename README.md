@@ -59,7 +59,7 @@
 
 "Inspriration?":
 
-  "Pengiunify",
+  "Penguinify",
     "coolelectronics",
       "Crin",
         "3kh0",
