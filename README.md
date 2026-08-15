@@ -54,12 +54,12 @@
 
   "GonnaDie?": false
 
-"Inspriration?":
+  "Inspriration?":
 
-  "Penguinify",
-    "coolelectronics",
-      "Crin",
-        "3kh0",
+    "Penguinify",
+      "coolelectronics",
+        "Crin",
+          "3kh0",
 
 
           Thank You...
