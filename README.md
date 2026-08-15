@@ -1,8 +1,5 @@
-## Hi 👋, I'm Su6o (6 stands for f in the alphabet) ##
-
+## Hi 👋, I'm Su6o (6 stands for f, stands for 4, stands for d) ##
 ### "It May Be [3AM], But I'm Muy Bien." - Pengiunify ##
-
-
 
                    -`                   
                   .o+`                  --------------- 
@@ -29,11 +26,11 @@
 {
   "name": "Su6o",
 
-  "age": 15,
+  "age": 16,
 
-  "intrests": ["programming", "gaming", "jailbreaking", "idk"],
+  "interests": ["programming", "gaming", "jailbreaking", "idk"],
 
-  "Devices?": ["IPad 6gen | IOS 16.1/15.4", "Brother's IPad Air 2 | IOS 14.8", "Poco X6 Pro 5G | AxionAOSP Android 16 (Main)", "Pixel 2XL | Android 11 (Secondary)"]
+  "Devices?": ["IPad 6gen | IOS 16.1/15.4", "Brother's IPad Air 2 | IOS 14.8", "Poco X6 Pro 5G | AxionAOSP Android 17 (Main)", "Pixel 2XL | Android 11 (Secondary)"]
 
   "jailbreak?": ["Def1nit3lyN0tAJa1lbr3akTool", "Palera1n", "Taurine", "Dopamine 2"],
 
@@ -47,11 +44,11 @@
 
   "LearningProgramLanguages": ["N/A"],
 
-  "editor": "VS Code",
+  "editor": "VSCodium",
 
   "learning": "nothin+",
 
-  "Games": ["Roblox", "Minecraft", "Trackmania", "The Finals"],
+  "Games": ["ZZZ", "OSU"],
 
   "hasBrainDamage": true
 
@@ -72,6 +69,10 @@
 
 
 [![Hello👋,](https://hits.sh/github.com/Su4o/hits.svg)](https://hits.sh/github.com/Su4o/hits/flat-square)
+<br>
+<br>
+<p>(so yes, my name is just sudo.)</p>
+
                           
 
  
