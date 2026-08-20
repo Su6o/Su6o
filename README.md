@@ -72,8 +72,11 @@
 <br>
 <br>
 <p>(so yes, my name is just sudo.)</p>
+<hr>
 
-                          
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Su6o&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=date_night)](https://github-stats-extended.vercel.app/api?username=Su6o&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=date_night)
+<br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Su6o&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=date_night)](https://github-stats-extended.vercel.app/api/top-langs?username=Su6o&layout=compact&hide_title=true&langs_count=4&disable_animations=true&theme=date_night)
 
  
                                                                 
